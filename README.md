@@ -4,8 +4,8 @@ In this work I will try to solve artist classification problem based on [**"Best
 
 ## Content
 
-* `artworks.ipynb`: jupyter notebook containing all work
-* `artworks.pdf`: copy in pdf format for instant view
+* [`artworks.ipynb`](https://github.com/rvg77/artworks-classification/blob/master/artworks.ipynb): jupyter notebook containing all work
+* [`artworks.pdf`](https://github.com/rvg77/artworks-classification/blob/master/artworks.pdf): copy in pdf format for instant view
 
 ## Dataset description
 
